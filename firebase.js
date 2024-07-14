@@ -4,7 +4,6 @@
         import { getAuth, signInWithEmailAndPassword, signOut } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC6temr9ml0SgnXGDaqBI6LoQQfnrSr2Ro",
   authDomain: "empower-3cd44.firebaseapp.com",
   projectId: "empower-3cd44",
   storageBucket: "empower-3cd44.appspot.com",
